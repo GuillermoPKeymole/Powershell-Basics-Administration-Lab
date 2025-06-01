@@ -34,6 +34,8 @@ This lab focuses on using PowerShell 5.1+ to perform core system administration 
 
 ---
 
+“Lab instructions provided for educational and portfolio purposes only. All rights belong to John Abbott College.”
+
 ## 👨‍💻 Author
 
 **Guillermo Padilla Keymole**  
